@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/api/index.js"
+        },
+        {
+            "src": "/sentence-generator",
+            "dest": "/api/sentence-generator.js"
+        }
+    ]
+}
